@@ -1,4 +1,4 @@
-package com.github.saacsos;
+package ku.cs.services;
 
 import javafx.animation.FadeTransition;
 import javafx.fxml.FXMLLoader;
